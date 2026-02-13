@@ -1,0 +1,9 @@
+,Student_ID,Name,Attendance_%,Assignment_Mark,Exam_Mark,Department,Final_score,Final_score_fail,Attendance_fail,Overall_Status
+0,101,Anushangar,85,78.0,82.0,Data Science,80.8,PASS,PASS,Safe
+1,102,John Doe,60,45.0,50.0,IT,48.5,FAIL,FAIL,At Risk
+2,103,Jane Smith,92,60.142857142857146,75.0,Data Science,70.54285714285714,PASS,PASS,Safe
+3,104,Alice Wong,78,88.0,90.0,CS,89.39999999999999,PASS,PASS,Safe
+4,105,Bob Brown,40,30.0,20.0,IT,23.0,FAIL,FAIL,At Risk
+5,106,Charlie Day,95,60.0,62.0,CS,61.4,PASS,PASS,Safe
+6,107,Eve Adams,82,70.0,72.0,Data Science,71.4,PASS,PASS,Safe
+7,108,Frank Castle,55,50.0,45.0,IT,46.5,FAIL,FAIL,At Risk

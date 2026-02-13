@@ -1,0 +1,4 @@
+,Student_ID,Name,Attendance_%,Assignment_Mark,Exam_Mark,Department,Final_score,Final_score_fail,Attendance_fail,Overall_Status
+1,102,John Doe,60,45.0,50.0,IT,48.5,FAIL,FAIL,At Risk
+4,105,Bob Brown,40,30.0,20.0,IT,23.0,FAIL,FAIL,At Risk
+7,108,Frank Castle,55,50.0,45.0,IT,46.5,FAIL,FAIL,At Risk
