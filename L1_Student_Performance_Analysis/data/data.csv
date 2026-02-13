@@ -1,0 +1,9 @@
+Student_ID,Name,Attendance_%,Assignment_Mark,Exam_Mark,Department
+101,Anushangar,85,78,82,Data Science
+102,John Doe,60,45,50,IT
+103,Jane Smith,92,,75,Data Science
+104,Alice Wong,78,88,90,CS
+105,Bob Brown,40,30,20,IT
+106,Charlie Day,95,60,,CS
+107,Eve Adams,82,70,72,Data Science
+108,Frank Castle,55,50,45,IT
