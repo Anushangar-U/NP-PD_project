@@ -1,0 +1,6 @@
+Product_Name,Quantity,Current_Stock,Avg_Daily_Sales,Days_to_Run_Out,Risk_Status
+Basmati Rice,8,150,1.3333333333333333,112.5,OK
+Ceylon Tea,3,40,0.5,80.0,OK
+Coconut Oil,2,80,0.3333333333333333,240.0,OK
+Dried Mango,10,15,1.6666666666666667,9.0,OK
+Spices Pack,8,200,1.3333333333333333,150.0,OK
