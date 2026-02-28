@@ -28,4 +28,19 @@ if(sales_df.shape[0] == Final_merge.shape[0]):
 else:
     print("data lose")
     
+    
+#BUSINESS LOGIC
+#revenue calculation
+Final_merge["Transaction_Revenue"] = Final_merge["Price"]*Final_merge["Quantity"]
 
+#Performance analysis
+Final_merge["Revenue_Status"] = np.where(Final_merge["Transaction_Revenue"] >=  Final_merge["Target_Revenue"]*0.10,"High Performer","Under Performer" )
+
+#STATISTICAL OUTLIER DETECTION
+#calculating IQR
+IQR = Final_merge["Transaction_Revenue"].quantile(0.75) - Final_merge["Transaction_Revenue"].quantile(0.25)
+
+#identifying bulk orders
+bulk_orders = np.where(Final_merge["Transaction_Revenue"] > (Final_merge))
+
+print(Final_merge.sample(10))
